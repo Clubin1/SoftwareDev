@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Software Development</title>
+    <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+  <body>
+
+    <!-- Image and text -->
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <img src="/img/cmslogo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+  </a>
+  <h1 class="sof-dev">Software Development TSA</h1>
+</nav>
+    <div class="search-bar text-center">
+        <input class="search" type="text" id="seeker" placeholder="Search For Schools By Name">
+        <i class="fa fa-search"></i>
+
+      </div>
+      <div class="center-div">
+      <div class="title-info text-center">
+        <p>Search for all the schools CMS has to offer and learn more about their important values. Find out where to put your children and translations are available at the bottom of the page.</p>
+      </div>
+      </div>
+      <div id="myProjectsBtn" class="school-nav filterBtn">
+        <ul>
+          <a class="btn" data-filter="all"><li>All Schools </li></a>
+          <a class="btn" data-filter="elem"><li>Elementary Schools </li></a>
+          <a class="btn" data-filter="middle"><li>Middle Schools </li></a>
+          <a class="btn" data-filter="high"><li>High Schools </li></a>
+        </ul>
+      </div>
+
+      <div id="content"></div>
+
+    <div class="info" id="school">
+      </div>
+      <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+        }
+        </script>
+
+      <!----FOOTER---->
+      <div class="footer-info text-center">
+        Made with HTML,CSS,javaScript, nodeJS, jQuery and JSON.
+      </div>
+      <div class="text-center translate" id="google_translate_element"></div>
+
+      <!--TO DO LIST-->
+      <!--ADD PAGINATION-->
+      <!--ADD RANK SYSTEM-->
+      <script src="json.js"></script>
+      <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>

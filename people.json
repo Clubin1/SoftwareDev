@@ -1,0 +1,57 @@
+{
+    "schools": [
+      {
+        "name":"Highland Renaissance academy",
+        "welcome": "Welcome to the home page for Highland Renaissance Academy. We want our students, our families, our staff and the community to be able to easily and quickly locate information about our district and our individual schools.",
+        "mission": "At Highland Renaissance Academy, we are committed to excellence and to addressing the social and emotional needs, as well as the instructional needs, of every student.",
+        "values": "We believe that children are what matters most, and we are working to ensure timely, accurate information about our district and our schools can be accessible to all parents.We believe that all students can achieve and we will work with our students and families to make that happen for every student."
+      },
+      {
+        "name":"Hornets Nest Elementary School",
+        "welcome": "At Hornets Nest Elementary School, we are committed to excellence and to addressing the social and emotional needs, as well as the instructional needs, of every student.",
+        "mission": "To actively engage students, parents and staff in a safe, supportive, enriched environment that prepares students for the 21st century and promotes lifelong learning.",
+        "values": " We believe that all students can achieve and we will work with our students and families to make that happen for every student."
+      },
+      {
+        "name":"Huntersville Elementary School",
+        "welcome": "​Greetings, Huntersville Elementary Families, Welcome to Huntersville Elementary! We are one of the oldest schools in Charlotte-Mecklenburg Schools and we’re located in the heart of downtown Huntersville. The historical Agriculture Building stands on our grounds to this day.",
+        "mission": "Huntersville Elementary will motivate all students to excel academically and become productive 21st century citizens.",
+        "values": "We pride ourselves on being one of the top-performing schools in the northern end of Mecklenburg County.We also recognize the need for our students' emotional learning and character development through daily morning meetings and our Buddy's Best character-education program."
+      },
+      {
+        "name":"Huntingtowne Farm Elementary School",
+        "welcome": "Welcome to Huntingtowne Farms Elementary School, home of the Foxes! Our school serves 850 students from pre-kindergarten through fifth grade.  We are an International Baccalaureate (IB) elementary school and all of our students participate in the IB curriculum.  As an IB school, we focus on different character attributes and center our teaching around six themes.  Our curriculum is question-driven and project-based.",
+        "mission": "We nurture and inspire each child's character and love of learning through whole child instruction within a global community",
+        "values": " We are building each year on a tradition of excellence and academic success, setting higher goals for ourselves and our students.  Recognition for our students is important.",
+        "rank":4
+      },
+      {
+        "name":"Heaven Elementary School",
+        "welcome": "At Hornets Nest Elementary School, we are committed to excellence and to addressing the social and emotional needs, as well as the instructional needs, of every student.",
+        "mission": "To actively engage students, parents and staff in a safe, supportive, enriched environment that prepares students for the 21st century and promotes lifelong learning.",
+        "values": " We believe that all students can achieve and we will work with our students and families to make that happen for every student."
+      },
+      {
+        "name":"Justerland Nest Elementary School",
+        "welcome": "At Hornets Nest Elementary School, we are committed to excellence and to addressing the social and emotional needs, as well as the instructional needs, of every student.",
+        "mission": "To actively engage students, parents and staff in a safe, supportive, enriched environment that prepares students for the 21st century and promotes lifelong learning.",
+        "values": " We believe that all students can achieve and we will work with our students and families to make that happen for every student.",
+        "rank":2
+      },
+      {
+        "name":"monkey Nest Elementary School",
+        "welcome": "At Hornets Nest Elementary School, we are committed to excellence and to addressing the social and emotional needs, as well as the instructional needs, of every student.",
+        "mission": "To actively engage students, parents and staff in a safe, supportive, enriched environment that prepares students for the 21st century and promotes lifelong learning.",
+        "values": " We believe that all students can achieve and we will work with our students and families to make that happen for every student.",
+        "rank": 3
+      },
+      {
+        "name":"monkey 2 ",
+        "welcome": "At Hornets Nest Elementary School, we are committed to excellence and to addressing the social and emotional needs, as well as the instructional needs, of every student.",
+        "mission": "To actively engage students, parents and staff in a safe, supportive, enriched environment that prepares students for the 21st century and promotes lifelong learning.",
+        "values": " We believe that all students can achieve and we will work with our students and families to make that happen for every student.",
+        "rank": 1
+      }
+    ]
+  }
+  
